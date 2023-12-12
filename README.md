@@ -1,5 +1,5 @@
 # Today I Learn (TIL)
-Habit of Recording
+*Habit of Recording
 
 ## Style Guide
 * Make detailed notes
